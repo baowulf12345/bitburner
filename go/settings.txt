@@ -1,0 +1,59 @@
+{
+  "gameoptions": {
+    "boardsize": "5",
+    "preferredopponent": "Netburners",
+    "automation": {
+      "active": true
+    }
+  },
+  "opponents": {
+    "Netburners": {
+      "name": "Netburners",
+      "komi": "1.5",
+      "effect": "hacknet",
+      "skill": "easy",
+      "goal": 30
+    },
+    "Slum Snakes": {
+      "name": "Slum Snakes",
+      "komi": "3.5",
+      "effect": "Crime Success",
+      "skill": "Amateur",
+      "goal": 10
+    },
+    "The Black Hand": {
+      "name": "The Black Hand",
+      "komi": "3.5",
+      "effect": "Hacking Money",
+      "skill": "Amateur",
+      "goal": 15
+    },
+    "Tetrads": {
+      "name": "Tetrads",
+      "komi": "5.5",
+      "effect": "Combat Levels",
+      "skill": "Advanced",
+      "goal": 10
+    },
+    "Daedalus": {
+      "name": "Daedalus",
+      "komi": "5.5",
+      "effect": "Reputation Gain",
+      "skill": "Advanced",
+      "goal": 15
+    },
+    "Illuminati": {
+      "name": "Illuminati",
+      "komi": "7.5",
+      "effect": "Faster Hacking",
+      "skill": "Expert",
+      "goal": 10
+    },
+    "????????????": {
+      "name": "????????????",
+      "komi": "7.5",
+      "effect": "Unknown",
+      "skill": "Unknown"
+    }
+  }
+}

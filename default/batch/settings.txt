@@ -1,0 +1,25 @@
+{
+	"multiplier":"10",
+	"overridetarget":"false",
+	"newtarget":"none",
+	"testing":"false",
+	"delay":"20",
+	"scripts":{
+		"growscript":"manager/managed_grow.js",
+		"hackscript":"manager/managed_hack.js",
+		"weakenscript":"manager/managed_weaken.js",
+		"sched_weaken":"batch/sched_weaken.js",
+		"sched_hack":"batch/sched_hack.js",
+		"sched_grow":"batch/sched_grow.js",
+		"scheduler":"batch/scheduler.js",
+		"settings":"batch/settings.txt",
+		"preparer":"batch/preparer.js",
+		"security":"batch/security.js",
+		"batchmanager":"batch/batchmanager.js",
+		"sharedfunctions":"/lib/sharedfunctions.js"
+	},
+	"use_pservers":"true",
+	"use_otherservs":"true",
+	"use_hacknet":"false",
+	"use_home":"true"
+}

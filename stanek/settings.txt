@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "charge": "stanek/charge.js",
+    "manager": "stanek/manager.js",
+    "settings": "stanek/settings.txt"
+  },
+  "settings": {
+    "maxusage": {
+      "home": 0.9,
+      "pserv": 0.9,
+      "other": 0.9
+    },
+    "limit": 120000000
+  },
+  "use_pservers": true,
+  "use_otherservs": true,
+  "use_home": true
+}

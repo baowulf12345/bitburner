@@ -1,0 +1,115 @@
+{
+  "settings": {
+    "dobatch": true
+  },
+  "phasesettings": {
+    "1": {
+      "prerequisites": {
+        "income": 0
+      },
+      "goals": {
+        "servers": 6,
+        "level": 31,
+        "ram": 32,
+        "cores": 6,
+        "cache": 2
+      }
+    },
+    "2": {
+      "prerequisites": {
+        "income": 10000000
+      },
+      "goals": {
+        "servers": 8,
+        "level": 51,
+        "ram": 256,
+        "cores": 11,
+        "cache": 2
+      }
+    },
+    "3": {
+      "prerequisites": {
+        "income": 100000000
+      },
+      "goals": {
+        "servers": 10,
+        "level": 61,
+        "ram": 512,
+        "cores": 16,
+        "cache": 3
+      }
+    },
+    "4": {
+      "prerequisites": {
+        "income": 1000000000
+      },
+      "goals": {
+        "servers": 12,
+        "level": 71,
+        "ram": 1024,
+        "cores": 21,
+        "cache": 3
+      }
+    },
+    "5": {
+      "prerequisites": {
+        "income": 1000000000000
+      },
+      "goals": {
+        "servers": 16,
+        "level": 81,
+        "ram": 4096,
+        "cores": 31,
+        "cache": 4
+      }
+    },
+    "6": {
+      "prerequisites": {
+        "income": 1000000000000000
+      },
+      "goals": {
+        "servers": 20,
+        "level": 101,
+        "ram": 8192,
+        "cores": 31,
+        "cache": 5
+      }
+    },
+    "7": {
+      "prerequisites": {
+        "income": 1000000000000000
+      },
+      "goals": {
+        "servers": 20,
+        "level": 141,
+        "ram": 8192,
+        "cores": 41,
+        "cache": 6
+      }
+    },
+    "8": {
+      "prerequisites": {
+        "income": 1000000000000000
+      },
+      "goals": {
+        "servers": 20,
+        "level": 181,
+        "ram": 8192,
+        "cores": 41,
+        "cache": 8
+      }
+    },
+    "9": {
+      "prerequisites": {
+        "income": 1000000000000000
+      },
+      "goals": {
+        "servers": 20,
+        "level": 200,
+        "ram": 8192,
+        "cores": 51,
+        "cache": 10
+      }
+    }
+  }
+}
