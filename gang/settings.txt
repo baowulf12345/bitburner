@@ -1,0 +1,6 @@
+{
+	"equipment":{
+		"targetdiscount":0.7,
+		"maxpercentofmoney":0.1
+	}
+}
